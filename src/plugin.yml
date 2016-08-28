@@ -1,0 +1,12 @@
+main: com.krisp.minecraft.whitelist.Whitelist
+name: Whitelist
+version: 1.0
+author: krisp
+depend: [AuthMe]
+
+commands:
+  whitelist:
+
+permissions:
+  whitelist.admin:
+    default: false

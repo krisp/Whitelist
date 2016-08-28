@@ -1,0 +1,5 @@
+#com.krisp.minecraft.util default config
+whitelist:
+  krisp:
+    hosts: 
+      - home.krisp.com
